@@ -1,0 +1,137 @@
+{
+  "source_repository": "https://github.com/pablorod11/ML-AI-Projects",
+  "source_revision": "5acfa982c5974ea415886d105aab2f61ff6035e2",
+  "migration_date": "2026-10-31",
+  "files": [
+    {
+      "path": "napolean/README.md",
+      "source_sha256": "937e2fec50f9e2a8a432f0c802dcd2b79a9678f75e020813a6798e8a857677f0",
+      "destination_sha256": "9f36b6ba7010f6df6f18a1f7bf3f5e9668da52f9ec71438532e92e8d3bad1eb7"
+    },
+    {
+      "path": "napolean/SKILL.md",
+      "source_sha256": "a2073346bb7a93b397e501985f22e266c2b4f14ae50958b89d25a2085b0d0ced",
+      "destination_sha256": "a2073346bb7a93b397e501985f22e266c2b4f14ae50958b89d25a2085b0d0ced"
+    },
+    {
+      "path": "napolean/agents/openai.yaml",
+      "source_sha256": "24e527f3d8d4a5d507f640dc47e029eef291eb15963baf297e914cc99c63b34b",
+      "destination_sha256": "24e527f3d8d4a5d507f640dc47e029eef291eb15963baf297e914cc99c63b34b"
+    },
+    {
+      "path": "napolean/references/integrations.md",
+      "source_sha256": "8238f06d18fbe4e77c7c02e314adcc1374bd2246d763fe978aab42aedaddaa58",
+      "destination_sha256": "8238f06d18fbe4e77c7c02e314adcc1374bd2246d763fe978aab42aedaddaa58"
+    },
+    {
+      "path": "napolean/references/web-research.md",
+      "source_sha256": "1153f7e20681978250d3e199826035558b40472900e4f5585412dbd72694e079",
+      "destination_sha256": "1153f7e20681978250d3e199826035558b40472900e4f5585412dbd72694e079"
+    },
+    {
+      "path": "napolean-security/README.md",
+      "source_sha256": "ff815f6dc8a3eaf58307435ff1d12025db034741e2bd25695432435963123b77",
+      "destination_sha256": "ff815f6dc8a3eaf58307435ff1d12025db034741e2bd25695432435963123b77"
+    },
+    {
+      "path": "napolean-security/SKILL.md",
+      "source_sha256": "eb34cbe449c6d23a58a6bbecb05dbaca17cf598f075be5dab7b7fbc47dbf1bd8",
+      "destination_sha256": "eb34cbe449c6d23a58a6bbecb05dbaca17cf598f075be5dab7b7fbc47dbf1bd8"
+    },
+    {
+      "path": "napolean-security/agents/openai.yaml",
+      "source_sha256": "4d6b2bfda9dd47bc9db92c2a7e71179cfd6c4bfba56fb29a53f1cd8c3eb5c2ca",
+      "destination_sha256": "4d6b2bfda9dd47bc9db92c2a7e71179cfd6c4bfba56fb29a53f1cd8c3eb5c2ca"
+    },
+    {
+      "path": "napolean-security/references/agent-defense.md",
+      "source_sha256": "acda3dbee5a53c348c05c32eaac7f5561b90cb2c4ac187db1c86c89e1a309568",
+      "destination_sha256": "acda3dbee5a53c348c05c32eaac7f5561b90cb2c4ac187db1c86c89e1a309568"
+    },
+    {
+      "path": "napolean-security/references/audit.md",
+      "source_sha256": "1e40e9f0ec50bd036b2db8cf5fd49372f6664ac550fd93b989258a0ca67f99ac",
+      "destination_sha256": "1e40e9f0ec50bd036b2db8cf5fd49372f6664ac550fd93b989258a0ca67f99ac"
+    },
+    {
+      "path": "napolean-security/references/sources.md",
+      "source_sha256": "a23833c86353abce7eb28c1f31bd9c96f6574a6cfc4a286e09052edca97419ad",
+      "destination_sha256": "a23833c86353abce7eb28c1f31bd9c96f6574a6cfc4a286e09052edca97419ad"
+    },
+    {
+      "path": "napolean-security/references/validation.md",
+      "source_sha256": "2d7c2afc012c27b8ca590e4d399cb72a8ac0f11cdf89d380af1ab413805d6ff5",
+      "destination_sha256": "2d7c2afc012c27b8ca590e4d399cb72a8ac0f11cdf89d380af1ab413805d6ff5"
+    },
+    {
+      "path": "design-workflow/README.md",
+      "source_sha256": "170dd94aab8c0f5ff4b1335a1c974dcaae2ccae49895ed7a61a1727da62bed97",
+      "destination_sha256": "b661e9df4137bb053b2151f3c7b98d6d5eff16bd0b8f85056b344a4cd8610b55"
+    },
+    {
+      "path": "design-workflow/skills/awesome-design-references/SKILL.md",
+      "source_sha256": "b45debd676bf72025157aaf1a973a609815d7fa8979d0503f21d0f6c4865d0ae",
+      "destination_sha256": "b45debd676bf72025157aaf1a973a609815d7fa8979d0503f21d0f6c4865d0ae"
+    },
+    {
+      "path": "design-workflow/skills/awesome-design-references/agents/openai.yaml",
+      "source_sha256": "9903d9f8de12807483e729145aaa5db0c1e068bdfb3b26f69a2e5cd29908278d",
+      "destination_sha256": "9903d9f8de12807483e729145aaa5db0c1e068bdfb3b26f69a2e5cd29908278d"
+    },
+    {
+      "path": "design-workflow/skills/awesome-design-references/references/LICENSE",
+      "source_sha256": "6d4bdc9a9cf30e7beb593475fdcdbf29f981ea6bd7923f202866145409f87b44",
+      "destination_sha256": "6d4bdc9a9cf30e7beb593475fdcdbf29f981ea6bd7923f202866145409f87b44"
+    },
+    {
+      "path": "design-workflow/skills/awesome-design-references/references/catalog.md",
+      "source_sha256": "3847536c93a8262b779ee04692fe0efb4bfa644ffcfb8c43565576f00a4a32e0",
+      "destination_sha256": "3847536c93a8262b779ee04692fe0efb4bfa644ffcfb8c43565576f00a4a32e0"
+    },
+    {
+      "path": "design-workflow/skills/design-workflow/SKILL.md",
+      "source_sha256": "05f21aa29bbddc92a66f67b1090765d322e2e0cf3ee3178b895f3ef450e94c1e",
+      "destination_sha256": "05f21aa29bbddc92a66f67b1090765d322e2e0cf3ee3178b895f3ef450e94c1e"
+    },
+    {
+      "path": "design-workflow/skills/design-workflow/agents/openai.yaml",
+      "source_sha256": "df09602c77eed4c0bec2b71ec4e40509bc5d8e0aadab61855630befa965fa518",
+      "destination_sha256": "df09602c77eed4c0bec2b71ec4e40509bc5d8e0aadab61855630befa965fa518"
+    },
+    {
+      "path": "design-workflow/sources.json",
+      "source_sha256": "22ce65c38148ee52fa9614f17e8ef68712bacd1259ae09d038d7ade15604d167",
+      "destination_sha256": "22ce65c38148ee52fa9614f17e8ef68712bacd1259ae09d038d7ade15604d167"
+    },
+    {
+      "path": "euclidean/.gitignore",
+      "source_sha256": "fa5b2d4433b835933b22140e01833a4972a0ee8532d76951286e3dd071994af0",
+      "destination_sha256": "fa5b2d4433b835933b22140e01833a4972a0ee8532d76951286e3dd071994af0"
+    },
+    {
+      "path": "euclidean/README.md",
+      "source_sha256": "c2fe3295f09d5ed015ea9c99942e04f3363f0c40bcd5111b7a67b27c0fd66f15",
+      "destination_sha256": "c2fe3295f09d5ed015ea9c99942e04f3363f0c40bcd5111b7a67b27c0fd66f15"
+    },
+    {
+      "path": "euclidean/SKILL.md",
+      "source_sha256": "15e4e9e38877b8a3f168eae0907f44083d71da298504b175b1eb5e2789a71480",
+      "destination_sha256": "15e4e9e38877b8a3f168eae0907f44083d71da298504b175b1eb5e2789a71480"
+    },
+    {
+      "path": "euclidean/agents/openai.yaml",
+      "source_sha256": "acadd99c0c8926255c894de85b5f4bcc11c9f5f41492445d40349658731fc3e8",
+      "destination_sha256": "acadd99c0c8926255c894de85b5f4bcc11c9f5f41492445d40349658731fc3e8"
+    },
+    {
+      "path": "euclidean/examples/capacity.json",
+      "source_sha256": "04563a28a41d7202d0e83899af9f3821bcfb9a79cae91feb0c86a49a63625f43",
+      "destination_sha256": "04563a28a41d7202d0e83899af9f3821bcfb9a79cae91feb0c86a49a63625f43"
+    },
+    {
+      "path": "euclidean/scripts/ecc.py",
+      "source_sha256": "feb2e6e07afb54c2f22e58f2beedf5d2488a312f018ef562ddc34afa1298c52f",
+      "destination_sha256": "feb2e6e07afb54c2f22e58f2beedf5d2488a312f018ef562ddc34afa1298c52f"
+    }
+  ]
+}
