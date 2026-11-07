@@ -23,6 +23,16 @@ Use Graphify for unfamiliar repository relationships when mapping will reduce un
 
 Load only relevant Vercel agent-skills: React performance for React work, composition guidance for component APIs, and other specialties for their actual domains. Route UI work through `design-workflow`, preserving established identity unless redesign was requested. Avoid duplicate audits when that workflow already includes the same guidance.
 
+## Milestone orchestration
+
+For substantial milestone planning, resumable delivery, or a codex-orchestrator
+integration, read [milestone orchestration](references/milestone-orchestration.md).
+It adds repository-first discovery, material clarifications, isolated plan review,
+project-memory routing, a self-contained handoff, and evidence-aware recovery.
+Keep ordinary edits inline; external-model review and persistent helpers remain
+conditional. Preserve the commander across phases and compaction unless an
+actual recovery or ownership need requires a handoff.
+
 ## Command and delegation
 
 Use available subagents when independent missions justify coordination cost. Work inline for trivial or tightly coupled tasks, or when delegation is unavailable or forbidden.
